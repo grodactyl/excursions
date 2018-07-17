@@ -1,0 +1,33 @@
+html{
+  font-family: verdana;
+  background-color: black;
+}
+
+
+h1 {
+  color:white;
+  text-align: center;
+  font-size: 50px
+
+}
+h2
+{font-size: 42px
+font-weight: 300;
+color:white;
+text-align: center;}
+
+.link {
+  color:Aquamarine;
+  font-size:16 px;
+}
+
+p {
+  text-align: center;
+  color:gray;
+
+}
+
+#endtag {
+  color:gray
+  text-align:right;
+}
